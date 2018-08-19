@@ -1,35 +1,3 @@
-
-@font-face {
-	font-family: 'DoubleTrouble';
-	src: url('./assets/otf/DoubleTrouble.otf');
-}
-
-@font-face {
-	font-family: 'BlossomyRegular';
-	src: url('./assets/otf/BlossomyRegular.otf');
-}
-
-@font-face {
-	font-family: 'CollegeStarFull';
-	src: url('./assets/otf/CollegeStarFull.otf');
-}
-
-@font-face {
-	font-family: 'EMFunNeverEnds';
-	src: url('./assets/otf/EMFunNeverEnds.otf');
-}
-
-@font-face {
-	font-family: 'HitchHikerRegular';
-	src: url('./assets/otf/HitchHikerRegular.otf');
-}
-
-@font-face {
-	font-family: 'RosifyFull';
-	src: url('./assets/otf/RosifyFull.otf');
-}
-
-
 @font-face {
 	font-family: 'ArtDecograms-Regular';
 	src: url('./assets/otf/ArtDecograms-Regular.otf');
@@ -52,7 +20,7 @@
 }
 
 @font-face {
-	font-family: 'C&SMonograms-Regular';
+	font-family: 'CSMonograms-Regular';
 	src: url('./assets/otf/C&SMonograms-Regular.otf');
 }
 
@@ -92,7 +60,7 @@
 }
 
 @font-face {
-	font-family: 'SelinaMonograms-Regular';
+	font-family: "SelinaMonograms-Regular";
 	src: url('./assets/otf/SelinaMonograms-Regular.otf');
 }
 
@@ -114,4 +82,14 @@
 @font-face {
 	font-family: 'YAMMonograms-Regular';
 	src: url('./assets/otf/YAMMonograms-Regular.otf');
+}
+
+@font-face {
+	font-family: 'Monogramia-Regular';
+	src: url('./assets/otf/Monogramia-Regular.otf');
+}
+
+@font-face {
+	font-family: 'Monogramia2-Regular';
+	src: url('./assets/otf/Monogramia2-Regular.otf');
 }
